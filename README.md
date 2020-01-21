@@ -14,3 +14,7 @@ As you would have probably guess it by now, this is a binary classification prob
 
 # Performance Metric Used:
 The performance metric used for this case study is AUC ROC score also known as AUROC (Area Under the Receiver Operating Characteristics).
+
+# Blog explaning my approach:
+https://towardsdatascience.com/machine-learning-case-study-a-data-driven-approach-to-predict-the-success-of-bank-telemarketing-20e37d46c31c
+
